@@ -2,5 +2,5 @@
 1. Start import next.js, tailwindcss
 2. Create Layout and design template
 3. Problem found: cannot use tailwindcss
-3.1. Problem solve: just delete everything in global.css and insert what tailwindcss provide.
+(Problem solve: just delete everything in global.css and insert what tailwindcss provide.)
 4. Complete layout css.
